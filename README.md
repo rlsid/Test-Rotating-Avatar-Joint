@@ -15,4 +15,4 @@
 
 자세한 내용은 블로그에서 확인할 수 있다.
 
-[](https://velog.io/@one_two_three/series/Unity-Project)
+[블로그 경로](https://velog.io/@one_two_three/series/Unity-Project)
