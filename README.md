@@ -10,5 +10,8 @@
 
 2. `Player Animation` Script는 비활성화 해두고 `Move Character Joint` Script를 적용한다.
    `Move Character Joint` C# Script는 아까 기록한 텍스트 파일의 데이터를 읽어와 관절의 x, y, z 위치값을 이용해 관절의 회전을 구현한다.
-   이전에 실행했던 애니메이션의 동작 그대로 아바타가 똑같이 동작하는 것을 확인할 수 있다.
+   이전에 실행했던 애니메이션의 움직임 그대로 아바타가 똑같이 동작하는 것을 확인할 수 있다.
    
+
+자세한 내용은 블로그에서 확인할 수 있다.
+![](https://velog.io/@one_two_three/series/Unity-Project)
