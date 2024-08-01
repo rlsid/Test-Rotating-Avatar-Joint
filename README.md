@@ -1,10 +1,11 @@
-### 유니티 3D 휴머노이드의 관절을 움직여 동작을 구현해보는 테스트
+### 유니티 3D 휴머노이드의 관절을 움직여 동작을 구현해보자
 -------------------------------------------------------------
 ![image](https://github.com/rlsid/Test-Rotating-Avatar-Joint/assets/122157081/b79966b6-080a-4ac1-8585-2dcffca0947d)
 1. `Player Animation` Script를 적용하여 관절의 위치를 텍스트 파일에 먼저 기록한다.
    아바타 컴포넌트에 Animator을 설정하여 유니티 에디터를 실행하게 되면 유니티 애니메이션이 적용된다.
    애니메이션이 실행되는 동안 `Player Animation` C# Script는 캐릭터의 관절 위치(x, y, z)를 텍스트 파일에 기록한다.
    
+<br><br>
 
 ![image](https://github.com/rlsid/Test-Rotating-Avatar-Joint/assets/122157081/724a5689-9cd8-4161-9790-39769c28b850)
 
